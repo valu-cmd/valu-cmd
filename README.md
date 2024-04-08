@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valu-cmd
-- 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning C#, Java, Python and C++
+- 👀 Web Developer & UX Designer Jr.
+- 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
 - ✨Now I'm a student collage, but still learning by myself :)
 - 👾 I'm 22 years old 
 <!---
