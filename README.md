@@ -10,11 +10,4 @@ Hola ✨, me llamo Valeria y soy FrontEnd dev & UX Designer 🤓<br><br>Estudian
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valu-cmd&theme=blueberry&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=valu-cmd&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=valu-cmd&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=valu-cmd&icon=4&color=8)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
