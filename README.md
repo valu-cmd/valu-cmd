@@ -1,4 +1,5 @@
-<h2 align="left">Hello World! My name is Valeria :D</h2>
+<h2>Hola ✨, me llamo Valeria 🤓</h2>
+<h3>Estudiante de *Ingeniería en Tecnologías de la Información y Comunicaciones* en el *Instituto Tecnológico de Puebla.* 👷🏻‍♀️</h3>
 
 ###
 
@@ -8,7 +9,6 @@
 </div>
 
 ###
-
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpkMmRtcXQzMXd6dzBiOHVxazVmM2NlMnl1ZGczZXpjb3dqbDRoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif"  />
 
 ###
@@ -36,11 +36,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/valu-cmd/valu-cmd/output/snake.svg" alt="Snake animation" />
-
-###
