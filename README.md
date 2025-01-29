@@ -1,5 +1,5 @@
-<h2>Hola ✨, me llamo Valeria 🤓</h2>
-<h3>Estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones en el Instituto Tecnológico de Puebla. 👷🏻‍♀️</h3>
+<h3>Hola ✨, me llamo Valeria 🤓</h3>
+<h4>Estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones en el Instituto Tecnológico de Puebla. 👷🏻‍♀️</h4>
 
 ###
 
