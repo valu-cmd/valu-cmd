@@ -1,5 +1,5 @@
 <h2>Hola ✨, me llamo Valeria 🤓</h2>
-<h3>Estudiante de *Ingeniería en Tecnologías de la Información y Comunicaciones* en el *Instituto Tecnológico de Puebla.* 👷🏻‍♀️</h3>
+<h3>Estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones en el Instituto Tecnológico de Puebla. 👷🏻‍♀️</h3>
 
 ###
 
@@ -36,3 +36,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
