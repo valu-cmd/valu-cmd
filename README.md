@@ -1,4 +1,4 @@
-<h1 align="center">── VALERIA ALVARADO ──</h1>
+<h3 align="center">── VALERIA ALVARADO ──</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=ERROR:%20SYSTEM%20READY&fontSize=50&fontAlignY=40&animation=twinkling" />
