@@ -1,7 +1,7 @@
 <h3 align="center">── VALERIA ALVARADO ──</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=ERROR:%20SYSTEM%20READY&fontSize=50&fontAlignY=40&animation=twinkling" />
+  <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0180.gif" border="0" alt="animated-line-image-0180" /></a>
 </p>
 
 <p align="center">
