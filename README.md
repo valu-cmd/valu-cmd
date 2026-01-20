@@ -17,7 +17,7 @@
 
 ### 🛠 System Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,mysql,postgres,mongodb,js,react,nodejs,powerbi,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,py,mysql,mongodb,js,react,nodejs,git,vscode" />
 </p>
 
 <p align="right">
