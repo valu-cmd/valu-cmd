@@ -1,11 +1,11 @@
 <h3 align="center">── VALERIA ALVARADO ──</h3>
 
 <p align="center">
-  <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0180.gif" border="0" alt="animated-line-image-0180" /></a>
+  <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0180.gif" border="0" alt="animated-line-image-0180" width="100%" /></a>
 </p>
 
 <p align="center">
-  <kbd>Full-Stack Rebel</kbd> • <kbd>Clean Code Addict</kbd> • <kbd>Coffee Powered</kbd>
+  <kbd>Data Student</kbd> • <kbd>Fun</kbd> • <kbd>Coffee Powered</kbd>
 </p>
 
 ---
